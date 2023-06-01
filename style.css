@@ -1,11 +1,18 @@
+html,
+body{
+    background-image: linear-gradient( #063970 60%, #abdbe3);
+}
+
+
 
 img {
     position: fixed; /* should keep image in fixed position */
+    right: 20%;
 }
 
 .box {
     width: 50vw;
     height: 50vh;
-    background-image: linear-gradient(to bottom #063970 60%, #abdbe3);
+    /* background-image: linear-gradient( #063970 60%, #abdbe3); */
 
 }
