@@ -2,3 +2,10 @@
 img {
     position: fixed; /* should keep image in fixed position */
 }
+
+.box {
+    width: 50vw;
+    height: 50vh;
+    background-image: linear-gradient(to bottom #063970 60%, #abdbe3);
+
+}
