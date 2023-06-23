@@ -5,8 +5,8 @@ body{
 
 
 
-img {
-    position: fixed; /* should keep image in fixed position */
+section img#cat {
+    position: fixed; /*keeps cat image in fixed position */
     right: 20%;
 }
 
@@ -17,13 +17,12 @@ img {
 
 }
 
-body img#moon {
-    width: 70vw;
-    height: 1300vh;
+section img#moon {
+    right:2%
 
 }
 
-<script>
+/*<script>
 window.addEventListener('scroll', function())
     let value = window.scrollY;
-    moon.style.right = value * 0.25 + 'px';
+    moon.style.right = value * 0.25 + 'px'; */
