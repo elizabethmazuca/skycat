@@ -22,3 +22,7 @@ section img#moon {
 
 }
 
+.paralax img#moon{
+    transform: translateX(882px);
+}
+
