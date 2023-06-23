@@ -22,7 +22,3 @@ section img#moon {
 
 }
 
-/*<script>
-window.addEventListener('scroll', function())
-    let value = window.scrollY;
-    moon.style.right = value * 0.25 + 'px'; */
