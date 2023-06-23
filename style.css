@@ -16,3 +16,14 @@ img {
     /* background-image: linear-gradient( #063970 60%, #abdbe3); */
 
 }
+
+body img#moon {
+   /* width: 70vw;
+    height: 1300vh;*/
+
+}
+
+<script>
+window.addEventListener('scroll', function())
+    let value = window.scrollY;
+    moon.style.right = value * 0.25 + 'px';
